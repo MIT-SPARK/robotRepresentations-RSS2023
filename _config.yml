@@ -1,0 +1,19 @@
+title: Robot Representations
+description: Title
+sitename: Robot Representations @ ICRA2023
+baseurl: /robotRepresentations-ICRA2023
+url: https://mit-spark.github.io
+
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+  - Makefile
+theme: jekyll-theme-cayman
