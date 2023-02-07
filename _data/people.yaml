@@ -3,32 +3,3 @@
   position: Assistant Professor
   affiliation: Massachusetts Institute of Technology
 
-- name: Dan Griffith
-  image: /assets/images/griffith.png
-  position: Technical Staff
-  affiliation: MIT Lincoln Laboratory
-
-- name: Sanjeev Mohindra
-  image: /assets/images/mohindra.png
-  position: Associate Group Leader
-  affiliation: MIT Lincoln Laboratory
-
-- name: Zachary Ravichandran
-  image: /assets/images/ZacRavichandran_Headshot1_cut.jpg
-  position: Computer Vision Engineer
-  affiliation: MIT Lincoln Laboratory
-
-- name: Mark Mazumder
-  image: /assets/images/mazumder_cut.jpg
-  position: Machine Learning Engineer
-  affiliation: MIT Lincoln Laboratory
-
-- name: Constantine Frost
-  image: /assets/images/Costas_cut.png
-  position: Simulation Engineer
-  affiliation: MIT Lincoln Laboratory
-
-- name: Antoni Rosinol
-  image: /assets/images/vidal_cut.jpg
-  position: PhD Student
-  affiliation: Massachusetts Institute of Technology
