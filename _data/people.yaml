@@ -1,12 +1,12 @@
-- name: Luca Carlone
-  image: /assets/images/luca.png
-  position: Associate Professor
-  affiliation: Massachusetts Institute of Technology
-
 - name: Jen Jen Chung
   image: /assets/images/jenjen.png
   position: Associate Professor
   affiliation: The University of Queensland
+
+- name: Luca Carlone
+  image: /assets/images/luca.png
+  position: Associate Professor
+  affiliation: Massachusetts Institute of Technology
 
 - name: Julian F&ouml;rster
   image: /assets/images/julian.png
