@@ -8,11 +8,17 @@ div_class: lead
 ---
 
 <!-- Submission link: <a href="https://easychair.org/conferences/?conf=pal2020icraworkshop">https://easychair.org/conferences/?conf=pal2020icraworkshop</a> (submission deadline has expired) -->
-Submission link: TBA
+**Submission link:** <a href="https://cmt3.research.microsoft.com/robrepworkshop2023/Submission/Index">https://cmt3.research.microsoft.com/robrepworkshop2023/Submission/Index</a>
 
 Participants are invited to submit an extended abstract or short papers (up to 4 pages in RSS format) focusing on novel advances in 3D scene understanding, predicate/affordance reasoning, high-level planning and at the boundary between these research areas.
 
-Topics of interest include but are not limited to:
+**Important dates:** (deadlines are <a href="https://time.is/Anywhere_on_Earth">AoE</a> on the respective date)
+- Submission deadline: 22 May 2023
+- Acceptance notification: 16 June 2023
+- Camera ready submission: 23 June 2023
+- Workshop date: 10 July 2023
+
+**Topics of interest** include but are not limited to:
 
 - Novel algorithms for spatial perception that combine geometry, semantics, and context;
 - Approaches to learning and structuring contextual knowledge from complex sensory inputs;
@@ -21,3 +27,5 @@ Topics of interest include but are not limited to:
 - Position papers and unconventional ideas on how to reach human-level performance in robot scene understanding, task planning and execution. 
 
 Contributed papers will be reviewed by the organizers and a program committee of invited reviewers. Accepted papers will be published on the workshop website and will be featured in spotlight presentations and poster sessions. 
+
+LaTeX template link: <a href="https://roboticsconference.org/docs/paper-template-latex.tar.gz">https://roboticsconference.org/docs/paper-template-latex.tar.gz</a>
