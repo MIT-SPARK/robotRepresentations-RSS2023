@@ -44,35 +44,33 @@ June 25 | <font color="red"> Invited talk </font>                         | Cesa
 
 | Time   |      Speakers/Authors      |   
 |:-----------:|:-----------------------------------------------------------:|
-09:00-09:10 | <i>Coffee and welcome</i> |
+08:50-09:00 | <i>Welcome</i> |
 |:-----------:|:-----------------------------------------------------------:|
-09:10-09:50 | <font color="blue">Invited talk:</font> Shuran Song (Columbia University) | 
+09:00-09:40 | <font color="blue">Invited talk:</font> Shuran Song (Columbia University) | 
 |:-----------:|:-----------------------------------------------------------:|
-09:50-10:30 | <font color="blue">Invited talk:</font> Jiayuan Mao (MIT) |
+09:40-10:20 | <font color="blue">Invited talk:</font> Jiayuan Mao (MIT) |
 |:-----------:|:-----------------------------------------------------------:|
-10:30-10:40 | <i>Coffee break</i> |
+10:20-11:00 | <font color="blue">Invited talk:</font> Janet Wiles (The University of Queensland) |
 |:-----------:|:-----------------------------------------------------------:|
-10:40-11:20 | <font color="blue">Invited talk:</font> Janet Wiles (The University of Queensland) |
+11:00-11:30 | <i>Coffee break and posters</i> |
 |:-----------:|:-----------------------------------------------------------:|
-11:20-11:40 | <font color="red">Panel discussion:</font> Reasoning and representations |
+11:30-12:00 | <font color="red">Panel discussion:</font> Reasoning and representations |
 |:-----------:|:-----------------------------------------------------------:|
-11:40-12:00 | Spotlight presentations |
+12:00-12:30 | Spotlight presentations |
 |:-----------:|:-----------------------------------------------------------:|
-12:00-13:30 | <i>Lunch and posters</i> |
+12:30-14:00 | <i>Lunch and posters</i> |
 |:-----------:|:-----------------------------------------------------------:|
-13:30-14:10 | <font color="blue">Invited talk:</font> Manolis Savva (Simon Fraser University) | 
+14:00-14:40 | <font color="blue">Invited talk:</font> Manolis Savva (Simon Fraser University) | 
 |:-----------:|:-----------------------------------------------------------:|
-14:10-14:50 | <font color="blue">Invited talk:</font> Rajat Talak (MIT) | 
+14:40-15:20 | <font color="blue">Invited talk:</font> Rajat Talak (MIT) | 
 |:-----------:|:-----------------------------------------------------------:|
-14:50-15:30 | <i>Coffee break and posters</i> |
+15:20-16:00 | <i>Coffee break and posters</i> |
 |:-----------:|:-----------------------------------------------------------:|
-15:30-16:10 | <font color="blue">Invited talk:</font> Helisa Dhamo (Huawei) |
+16:00-16:40 | <font color="blue">Invited talk:</font> Helisa Dhamo (Huawei) |
 |:-----------:|:-----------------------------------------------------------:|
-16:10-16:50 | <font color="blue">Invited talk:</font> TBD |
+16:40-17:10 | <font color="red">Panel discussion:</font> 3D scene understanding |
 |:-----------:|:-----------------------------------------------------------:|
-16:50-17:20 | <font color="red">Panel discussion:</font> 3D scene understanding |
-|:-----------:|:-----------------------------------------------------------:|
-17:20-17:30 | Closing remarks |
+17:10-17:30 | Closing remarks |
 |:-----------:|:-----------------------------------------------------------:|
 
 
