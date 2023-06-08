@@ -19,7 +19,7 @@ Participants are invited to submit an extended abstract or short papers (up to 4
 - Acceptance notification
   - For papers submitted before May 22: June 16
   - For papers submitted after May 22: on a rolling basis
-- Camera ready submission: ~~23 June 2023~~ June 30
+- Camera ready submission: ~~June 23~~ June 30
 - Workshop date: July 10, 2023
 
 **Topics of interest** include but are not limited to:
