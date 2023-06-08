@@ -7,16 +7,20 @@ div_class: lead
 # image: "http://placehold.it/500x500"
 ---
 
+⏰ **DEADLINE EXTENDED** until **June 30** ⏰
+
 <!-- Submission link: <a href="https://easychair.org/conferences/?conf=pal2020icraworkshop">https://easychair.org/conferences/?conf=pal2020icraworkshop</a> (submission deadline has expired) -->
 **Submission link:** <a href="https://cmt3.research.microsoft.com/robrepworkshop2023/Submission/Index">https://cmt3.research.microsoft.com/robrepworkshop2023/Submission/Index</a>
 
 Participants are invited to submit an extended abstract or short papers (up to 4 pages in RSS format) focusing on novel advances in 3D scene understanding, predicate/affordance reasoning, high-level planning and at the boundary between these research areas.
 
 **Important dates:** (deadlines are <a href="https://time.is/Anywhere_on_Earth">AoE</a> on the respective date)
-- Submission deadline: 22 May 2023
-- Acceptance notification: 16 June 2023
-- Camera ready submission: 23 June 2023
-- Workshop date: 10 July 2023
+- Submission deadline: ~~May 22~~ June 30
+- Acceptance notification
+  - For papers submitted before May 22: June 16
+  - For papers submitted after May 22: on a rolling basis
+- Camera ready submission: ~~23 June 2023~~ June 30
+- Workshop date: July 10, 2023
 
 **Topics of interest** include but are not limited to:
 
