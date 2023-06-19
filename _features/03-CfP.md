@@ -33,3 +33,14 @@ Participants are invited to submit an extended abstract or short papers (up to 4
 Contributed papers will be reviewed by the organizers and a program committee of invited reviewers. Accepted papers will be published on the workshop website and will be featured in spotlight presentations and poster sessions. 
 
 LaTeX template link: <a href="https://roboticsconference.org/docs/paper-template-latex.tar.gz">https://roboticsconference.org/docs/paper-template-latex.tar.gz</a>
+
+**Instructions for Authors** of accepted papers:
+
+You will have the opportunty to present your work in a spotlight presentation which should last no longer than 5 minutes, followed by a short time for questions from the audience. For more in depth discussions, we invite you to prepare a poster for the poster session.
+
+Important dates:
+
+- By June 30: Submit camera ready paper on CMT
+- By July 8: Submit presentation slides via email to *fjulian AT ethz DOT ch*
+- By July 10: Prepare poster (A0 or digital) and bring it to the workshop
+
