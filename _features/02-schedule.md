@@ -46,9 +46,9 @@ June 25 | <font color="red"> Invited talk </font>                         | Cesa
 |:-----------:|:-----------------------------------------------------------:|
 09:00-09:10 | <i>Welcome</i> |
 |:-----------:|:-----------------------------------------------------------:|
-09:10-09:40 | <font color="blue">Invited talk:</font> Shuran Song (Columbia University) | 
+09:10-09:40 | <font color="blue">Invited talk:</font> Shuran Song (Columbia University)<br><i>Hierarchical Representations for Language-Based Reasoning</i> | 
 |:-----------:|:-----------------------------------------------------------:|
-09:40-10:10 | <font color="blue">Invited talk:</font> Jiayuan Mao (MIT) |
+09:40-10:10 | <font color="blue">Invited talk:</font> Jiayuan Mao (MIT)<br><i>Neuro-Symbolic Concepts for Robotic Manipulation</i> |
 |:-----------:|:-----------------------------------------------------------:|
 10:10-10:30 | Spotlight presentations |
 |:-----------:|:-----------------------------------------------------------:|
