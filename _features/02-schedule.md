@@ -70,7 +70,7 @@ June 25 | <font color="red"> Invited talk </font>                         | Cesa
 |:-----------:|:-----------------------------------------------------------:|
 15:30-16:00 | <font color="blue">Invited talk:</font> Manolis Savva (Simon Fraser University) | 
 |:-----------:|:-----------------------------------------------------------:|
-16:00-16:30 | <font color="blue">Invited talk:</font> Helisa Dhamo (Huawei) |
+16:00-16:30 | <font color="blue">Invited talk:</font> Helisa Dhamo (Huawei)<br><i>Scene Understanding via Semantic Scene Graphs</i> |
 |:-----------:|:-----------------------------------------------------------:|
 16:30-17:00 | <font color="red">Panel discussion:</font> 3D scene understanding |
 |:-----------:|:-----------------------------------------------------------:|
