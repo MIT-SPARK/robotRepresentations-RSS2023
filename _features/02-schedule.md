@@ -62,7 +62,7 @@ June 25 | <font color="red"> Invited talk </font>                         | Cesa
 |:-----------:|:-----------------------------------------------------------:|
 13:30-14:00 | <font color="blue">Invited talk:</font> Rajat Talak (MIT)<br><i>Spatial Perception for Robotics: Representation, Structure, and Real-Time Systems</i> | 
 |:-----------:|:-----------------------------------------------------------:|
-14:00-14:20 | Best paper talk<br><i>FOCUS: Object-Centric World Models for Robotics Manipulation</i> |
+14:00-14:20 | Best paper talk: Stefano Ferraro, Pietro Mazzaglia, Tim Verbelen, Bart Dhoedt<br><i>FOCUS: Object-Centric World Models for Robotics Manipulation</i> |
 |:-----------:|:-----------------------------------------------------------:|
 14:20-15:00 | Spotlight presentations |
 |:-----------:|:-----------------------------------------------------------:|
