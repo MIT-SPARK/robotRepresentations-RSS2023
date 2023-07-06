@@ -1,4 +1,4 @@
----
+![image](https://github.com/MIT-SPARK/robotRepresentations-RSS2023/assets/11051890/da5e40d3-5ed9-461c-99d5-2e5437b98179)---
 id: Schedule
 name: Schedule
 heading: Schedule
@@ -60,7 +60,7 @@ June 25 | <font color="red"> Invited talk </font>                         | Cesa
 |:-----------:|:-----------------------------------------------------------:|
 12:00-13:30 | <i>Lunch</i> |
 |:-----------:|:-----------------------------------------------------------:|
-13:30-14:00 | <font color="blue">Invited talk:</font> Rajat Talak (MIT) | 
+13:30-14:00 | <font color="blue">Invited talk:</font> Rajat Talak (MIT)<br><i>Spatial Perception for Robotics: Representation, Structure, and Real-Time Systems</i> | 
 |:-----------:|:-----------------------------------------------------------:|
 14:00-14:20 | Best paper talk<br><i>FOCUS: Object-Centric World Models for Robotics Manipulation</i> |
 |:-----------:|:-----------------------------------------------------------:|
