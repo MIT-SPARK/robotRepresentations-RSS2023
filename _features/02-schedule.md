@@ -1,4 +1,3 @@
-![image](https://github.com/MIT-SPARK/robotRepresentations-RSS2023/assets/11051890/da5e40d3-5ed9-461c-99d5-2e5437b98179)---
 id: Schedule
 name: Schedule
 heading: Schedule
