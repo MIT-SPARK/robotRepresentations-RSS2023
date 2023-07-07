@@ -68,7 +68,7 @@ June 25 | <font color="red"> Invited talk </font>                         | Cesa
 |:-----------:|:-----------------------------------------------------------:|
 15:00-15:30 | <i>Coffee break and posters</i> |
 |:-----------:|:-----------------------------------------------------------:|
-15:30-16:00 | <font color="blue">Invited talk:</font> Manolis Savva (Simon Fraser University) | 
+15:30-16:00 | <font color="blue">Invited talk:</font> Manolis Savva (Simon Fraser University)<br><i>3D Simulation for Embodied AI: Emerging Challenges & Opportunities</i> | 
 |:-----------:|:-----------------------------------------------------------:|
 16:00-16:30 | <font color="blue">Invited talk:</font> Helisa Dhamo (Huawei)<br><i>Scene Understanding via Semantic Scene Graphs</i> |
 |:-----------:|:-----------------------------------------------------------:|
