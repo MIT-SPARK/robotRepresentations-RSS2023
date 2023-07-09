@@ -54,7 +54,7 @@ June 25 | <font color="red"> Invited talk </font>                         | Cesa
 |:-----------:|:-----------------------------------------------------------:|
 10:30-11:00 | <i>Coffee break and posters</i> |
 |:-----------:|:-----------------------------------------------------------:|
-11:00-11:30 | <font color="blue">Invited talk:</font> Janet Wiles (The University of Queensland)<b><i>Social Robots and Language Technologies:  What can Robotics Learn from the Language Sciences?</i> |
+11:00-11:30 | <font color="blue">Invited talk:</font> Janet Wiles (The University of Queensland)<br><i>Social Robots and Language Technologies:  What can Robotics Learn from the Language Sciences?</i> |
 |:-----------:|:-----------------------------------------------------------:|
 11:30-12:00 | <font color="red">Panel discussion:</font> Reasoning and representations |
 |:-----------:|:-----------------------------------------------------------:|
