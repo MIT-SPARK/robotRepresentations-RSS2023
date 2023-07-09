@@ -50,7 +50,7 @@ June 25 | <font color="red"> Invited talk </font>                         | Cesa
 |:-----------:|:-----------------------------------------------------------:|
 09:40-10:10 | <font color="blue">Invited talk:</font> Jiayuan Mao (MIT)<br><i>Neuro-Symbolic Concepts for Robotic Manipulation</i> |
 |:-----------:|:-----------------------------------------------------------:|
-10:10-10:30 | Spotlight presentations |
+10:10-10:30 | Spotlight presentations <br><a href="assets/papers/1.pdf" target="_blank">Motion Planning in Understructured Road Environments with Stacked Reservation Grids</a> |
 |:-----------:|:-----------------------------------------------------------:|
 10:30-11:00 | <i>Coffee break and posters</i> |
 |:-----------:|:-----------------------------------------------------------:|
